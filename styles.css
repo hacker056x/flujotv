@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  color: #00fff7;
+  text-align: center;
+  padding: 40px 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2.2em;
+  text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;
+  margin-bottom: 0.2em;
+}
+
+.subtext {
+  color: #ccc;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.dice-btn {
+  padding: 15px 30px;
+  font-size: 1.2em;
+  color: #000;
+  background: #00ffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 15px #00ffff, 0 0 30px #00ffff;
+  transition: all 0.3s ease;
+}
+
+.dice-btn:hover:not(:disabled) {
+  background: #0ff;
+  box-shadow: 0 0 25px #00ffff, 0 0 45px #00ffff;
+}
+
+.dice-btn:disabled {
+  background: #444;
+  color: #999;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.result,
+.countdown,
+.account {
+  margin-top: 25px;
+  font-size: 1em;
+  color: #fff;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+.credit {
+  margin-top: 60px;
+  font-size: 0.9em;
+  color: #00fff7;
+  text-shadow: 0 0 5px #00ffff;
+  text-align: center;
+}
