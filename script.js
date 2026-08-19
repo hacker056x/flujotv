@@ -10,16 +10,16 @@
 
   // Lista de cuentas
   const accounts = [
-    'usuario : cq2u5j051418830\ncontraseña : 11511474',
-    'usuario : cw2w0g0v1418832\ncontraseña : 69334503',
-    'usuario : cncb68z61418833\ncontraseña : 33164c67',
-    'usuario : c94966x81418831\ncontraseña : 91c29232',
-    'usuario : c79o01161418827\ncontraseña : b77933b8',
-    'usuario : c55nhmbn1418828\ncontraseña : 39958111',
-    'usuario : cv416b751418829\ncontraseña : 5510aa36',
-    'usuario : c9288d611418469\ncontraseña : 95284677',
-    'usuario : crunk9161418467\ncontraseña : darkar07',
-    'usuario : c8ja8b021418471\ncontraseña : 77297a92'
+    'usuario : 00000000000000000000000\ncontraseña : 11511474',
+    'usuario : 00000000000000000000000\ncontraseña : 69334503',
+    'usuario : 00000000000000000000000\ncontraseña : 33164c67',
+    'usuario : 00000000000000000000000\ncontraseña : 91c29232',
+    'usuario : 00000000000000000000000\ncontraseña : b77933b8',
+    'usuario : 00000000000000000000000\ncontraseña : 39958111',
+    'usuario : 00000000000000000000000\ncontraseña : 5510aa36',
+    'usuario : 00000000000000000000000\ncontraseña : 95284677',
+    'usuario : 00000000000000000000000\ncontraseña : darkar07',
+    'usuario : cfhr03561457485\ncontraseña : diana2026'
   ];
 
   // Funciones de almacenamiento
