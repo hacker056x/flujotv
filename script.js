@@ -12,12 +12,12 @@
   const accounts = [
     'usuario : 00000000000000000000000\ncontraseña : 11111111',
     'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : Kleg45\ncontraseña : klear2026',
+    'usuario : jprsesr\ncontraseña : casa5763',
+    'usuario : Frecc44\ncontraseña : adm556',
+    'usuario : Josxxx1\ncontraseña : Sofi2024',
+    'usuario : FabianMarin\ncontraseña : Olga2495',
+    'usuario : Josccr2\ncontraseña : milton63',
     'usuario : bmlge345\ncontraseña : admcby67',
     'usuario : cfhr03561457485\ncontraseña : diana2026'
   ];
