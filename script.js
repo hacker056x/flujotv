@@ -10,15 +10,15 @@
 
   // Lista de cuentas
   const accounts = [
-    'usuario : 00000000000000000000000\ncontraseña : 11511474',
-    'usuario : 00000000000000000000000\ncontraseña : 69334503',
-    'usuario : 00000000000000000000000\ncontraseña : 33164c67',
-    'usuario : 00000000000000000000000\ncontraseña : 91c29232',
-    'usuario : 00000000000000000000000\ncontraseña : b77933b8',
-    'usuario : 00000000000000000000000\ncontraseña : 39958111',
-    'usuario : 00000000000000000000000\ncontraseña : 5510aa36',
-    'usuario : 00000000000000000000000\ncontraseña : 95284677',
-    'usuario : 00000000000000000000000\ncontraseña : darkar07',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : bmlge345\ncontraseña : admcby67',
     'usuario : cfhr03561457485\ncontraseña : diana2026'
   ];
 
