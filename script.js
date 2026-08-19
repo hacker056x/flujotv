@@ -10,8 +10,8 @@
 
   // Lista de cuentas
   const accounts = [
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
-    'usuario : 00000000000000000000000\ncontraseña : 11111111',
+    'usuario : polotecstream\ncontraseña : polo2005',
+    'usuario : bml120925\ncontraseña : suecia2026a',
     'usuario : Kleg45\ncontraseña : klear2026',
     'usuario : jprsesr\ncontraseña : casa5763',
     'usuario : Frecc44\ncontraseña : adm556',
