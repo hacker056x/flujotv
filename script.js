@@ -10,16 +10,16 @@
 
   // Lista de cuentas
   const accounts = [
-    'usuario : polotecstream\ncontraseña : polo2005',
-    'usuario : bml120925\ncontraseña : suecia2026a',
-    'usuario : Kleg45\ncontraseña : klear2026',
-    'usuario : jprsesr\ncontraseña : casa5763',
-    'usuario : Frecc44\ncontraseña : adm556',
-    'usuario : Josxxx1\ncontraseña : Sofi2024',
-    'usuario : FabianMarin\ncontraseña : Olga2495',
-    'usuario : Josccr2\ncontraseña : milton63',
-    'usuario : bmlge345\ncontraseña : admcby67',
-    'usuario : cfhr03561457485\ncontraseña : diana2026'
+    'usuario : tela pelate\ncontraseña : por copion',
+    'usuario : por sacar\ncontraseña : del grupo',
+    'usuario : lo vis en\ncontraseña : otro grupo',
+    'usuario : por lo fantama\ncontraseña : la quite',
+    'usuario : no saben\ncontraseña : valorar',
+    'usuario : por uno\ncontraseña : pierden todos',
+    'usuario : ya no\ncontraseña : comparto',
+    'usuario : si me habia dicho\ncontraseña : la habia dejado',
+    'usuario : siempre hay\ncontraseña : rata en el grupo',
+    'usuario : se lo perdiero\ncontraseña : por pasar en otro grupo'
   ];
 
   // Funciones de almacenamiento
